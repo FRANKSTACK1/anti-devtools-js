@@ -91,11 +91,7 @@ Example:
 
 ```text
 project/
-│
-├── assets/
-│   └── anti-devtools.js
-│
-├── index.html
+├── disable-devtools.js
 │
 └── README.md
 ```
