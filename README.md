@@ -123,7 +123,7 @@ Paste the script inside the file.
 Include it before the closing body tag.
 
 ```html
-<script src="assets/anti-devtools.js"></script>
+<script src="disable-devtools.js"></script>
 </body>
 ```
 
@@ -131,7 +131,7 @@ Or place it in the head:
 
 ```html
 <head>
-    <script src="assets/anti-devtools.js"></script>
+    <script src="disable-devtools.js"></script>
 </head>
 ```
 
